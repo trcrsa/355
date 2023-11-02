@@ -6,4 +6,5 @@ class Cases(unittest.TestCase):
         result = sumOf(-1,-1)
         self.assertEqual(result, -2)
 
-    
+
+
